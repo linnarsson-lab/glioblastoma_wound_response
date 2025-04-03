@@ -11,6 +11,8 @@ For single-cell RNA sequencing data we used the [Shoji](https://github.com/linna
 ### Download the data:
 For the visualization of [Molecules Spatial Coordinates](https://storage.googleapis.com/linnarsson-lab-glioblastoma/EEL/DataSubmission/MoleculesLibrary.tar.gz) we recommend to use [FISHscale](https://github.com/linnarsson-lab/FISHscale). FISHscale visualizer is based upon Open3D, allowing for blazing fast visualization of datasets of millions of RNA molecules.  
 
+The single-cell RNA sequencing dataset can be browsed from [our collection](https://cellxgene.cziscience.com/collections/113a558a-e96e-4643-81db-140e95c58578) at [CELLxGENE](https://cellxgene.cziscience.com/).
+
 Gene expression data can be downloaded at:  
 [EEL gene expression matrix](https://storage.googleapis.com/linnarsson-lab-glioblastoma/EEL/DataSubmission/GBM_Linnarsson_EEL.h5ad)  
 [Organoid expression matrix](https://storage.googleapis.com/linnarsson-lab-glioblastoma/EEL/DataSubmission/SL_OrganoidExperiment.h5ad)  
