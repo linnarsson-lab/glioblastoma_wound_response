@@ -6,6 +6,8 @@
 Follow the [Example Notebooks](https://github.com/linnarsson-lab/glioblastoma_wound_response/tree/main/Example_Notebooks) to visualize the data available below.  
 We use the [FISHscale](https://github.com/linnarsson-lab/FISHscale) pipeline for unsupervised cell-free segmentation (m-states). We use the [FISHspace](https://github.com/linnarsson-lab/FISHspace) software for plotting m-cells and further analysis. FISHspace software is based on [stlearn](https://stlearn.readthedocs.io/en/latest/) with added plotting and processing functions.
 
+For single-cell RNA sequencing data we used the [Shoji](https://github.com/linnarsson-lab/shoji) tensor database and the [cytograph-shoji](https://github.com/linnarsson-lab/cytograph-shoji) pipeline.
+
 ### Download the data:
 For the visualization of [Molecules Spatial Coordinates](https://storage.googleapis.com/linnarsson-lab-glioblastoma/EEL/DataSubmission/MoleculesLibrary.tar.gz) we recommend to use [FISHscale](https://github.com/linnarsson-lab/FISHscale). FISHscale visualizer is based upon Open3D, allowing for blazing fast visualization of datasets of millions of RNA molecules.  
 
