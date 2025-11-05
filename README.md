@@ -19,8 +19,6 @@ Complete spatial gene expression data can be downloaded at:
 Spatial gene expression and accessory data files needed to reproduce the example notebook visualizations can be downloaded at:  
 [EEL data for visualization](https://storage.googleapis.com/linnarsson-lab-glioblastoma/EEL/data_for_visualization.tar.gz)
 
-
-
 The raw single-cell RNA sequencing data are available at European Genome-phenome Archive under Accession number TBA.
 The dataset can also be [browsed](https://cellxgene.cziscience.com/collections/113a558a-e96e-4643-81db-140e95c58578) at [CELLxGENE](https://cellxgene.cziscience.com/).
 
