@@ -11,6 +11,9 @@ For single-cell RNA sequencing data we used the [Shoji](https://github.com/linna
 ### Download the data:
 For the visualization of [Molecules Spatial Coordinates](https://storage.googleapis.com/linnarsson-lab-glioblastoma/EEL/DataSubmission/MoleculesLibrary.tar.gz) we recommend to use [FISHscale](https://github.com/linnarsson-lab/FISHscale). FISHscale visualizer is based upon Open3D, allowing for blazing fast visualization of datasets of millions of RNA molecules.  
 
+[EEL data for visualization](https://storage.googleapis.com/linnarsson-lab-glioblastoma/EEL/data_for_visualization.tar.gz)
+
+
 The raw single-cell RNA sequencing data are available at European Genome-phenome Archive under Accession number TBA.
 The dataset can also be [browsed](https://cellxgene.cziscience.com/collections/113a558a-e96e-4643-81db-140e95c58578) at [CELLxGENE](https://cellxgene.cziscience.com/).
 
