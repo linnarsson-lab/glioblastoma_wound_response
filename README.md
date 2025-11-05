@@ -19,11 +19,12 @@ Complete spatial gene expression data can be downloaded at:
 Spatial gene expression and accessory data files needed to reproduce the example notebook visualizations can be downloaded at:  
 [EEL data for visualization](https://storage.googleapis.com/linnarsson-lab-glioblastoma/EEL/data_for_visualization.tar.gz)
 
-The raw single-cell RNA sequencing data are available at European Genome-phenome Archive under Accession number TBA.
+The raw single-cell RNA sequencing data for SL040 and SL057 are available at European Genome-phenome Archive under Accession number "EGAD50000001500".
 The dataset can also be [browsed](https://cellxgene.cziscience.com/collections/113a558a-e96e-4643-81db-140e95c58578) at [CELLxGENE](https://cellxgene.cziscience.com/).
+The other samples (single-cell and bulk) are available at European Genome-phenome Archive under Accession number TBA. All samples can be accessed as h5ad-files at google cloud storage:
 
+[TruSeq Bulk GBO treated](https://storage.googleapis.com/linnarsson-lab-glioblastoma/woundresponse/bulk_samples_GBO_treated.h5ad)  
 [Smartseq Xpress Bulk GBO control](https://storage.googleapis.com/linnarsson-lab-glioblastoma/woundresponse/bulk_samples_GBO_control_smartseq_2025.h5ad)  
-[Smartseq Xpress Bulk GBO treated](https://storage.googleapis.com/linnarsson-lab-glioblastoma/woundresponse/bulk_samples_GBO_treated.h5ad)  
 [Smartseq Xpress Bulk astrocytes](https://storage.googleapis.com/linnarsson-lab-glioblastoma/woundresponse/bulk_samples_Astrocytes_smartseq_2025.h5ad)  
 [Patient SL040 scRNA-seq](https://storage.googleapis.com/linnarsson-lab-glioblastoma/woundresponse/SL040.h5ad)  
 [Patient SL057 scRNA-seq](https://storage.googleapis.com/linnarsson-lab-glioblastoma/woundresponse/SL057.h5ad)
