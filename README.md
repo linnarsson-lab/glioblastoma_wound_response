@@ -27,7 +27,8 @@ The other samples (single-cell and bulk) are available at European Genome-phenom
 [Smartseq Xpress Bulk GBO control](https://storage.googleapis.com/linnarsson-lab-glioblastoma/woundresponse/bulk_samples_GBO_control_smartseq_2025.h5ad)  
 [Smartseq Xpress Bulk astrocytes](https://storage.googleapis.com/linnarsson-lab-glioblastoma/woundresponse/bulk_samples_Astrocytes_smartseq_2025.h5ad)  
 [Patient SL040 scRNA-seq](https://storage.googleapis.com/linnarsson-lab-glioblastoma/woundresponse/SL040.h5ad)  
-[Patient SL057 scRNA-seq](https://storage.googleapis.com/linnarsson-lab-glioblastoma/woundresponse/SL057.h5ad)
+[Patient SL057 scRNA-seq](https://storage.googleapis.com/linnarsson-lab-glioblastoma/woundresponse/SL057.h5ad)  
+[Patient KS920+KS924+KS925 scRNA-seq](https://storage.googleapis.com/linnarsson-lab-glioblastoma/woundresponse/KS920_924_925.h5ad)  
 
 
  
