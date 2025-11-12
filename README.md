@@ -30,6 +30,7 @@ The other samples (single-cell and bulk) are available at European Genome-phenom
 [Patient SL040 scRNA-seq](https://storage.googleapis.com/linnarsson-lab-glioblastoma/woundresponse/SL040.h5ad)  
 [Patient SL057 scRNA-seq](https://storage.googleapis.com/linnarsson-lab-glioblastoma/woundresponse/SL057.h5ad)  
 [Patient KS920+KS924+KS925 scRNA-seq](https://storage.googleapis.com/linnarsson-lab-glioblastoma/woundresponse/KS920_924_925.h5ad)  
+[Darmanis et al. Cell Rep. 2017 scRNA-seq](https://storage.googleapis.com/linnarsson-lab-glioblastoma/woundresponse/Darmanis.h5ad)  
 
 
  
