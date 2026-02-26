@@ -1,7 +1,7 @@
 # Tissue-reactive zonation of mesenchymal-like phenotypes in human glioblastoma
 *(In review)*
 
-![Model.pdf](files/Graphical_abstract.pdf)
+![Model.pdf](files/Graphical_abstract.png)
 
 Follow the [Example Notebooks](https://github.com/linnarsson-lab/glioblastoma_wound_response/tree/main/Example_Notebooks) to visualize the data available below.  
 
