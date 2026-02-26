@@ -1,7 +1,7 @@
-# Futile wound healing drives mesenchymal-like cell phenotypes in human glioblastoma
+# Tissue-reactive zonation of mesenchymal-like phenotypes in human glioblastoma
 *(In review)*
 
-![Model.pdf](files/scheme.jpg)
+![Model.pdf](files/Graphical_abstract.pdf)
 
 Follow the [Example Notebooks](https://github.com/linnarsson-lab/glioblastoma_wound_response/tree/main/Example_Notebooks) to visualize the data available below.  
 
